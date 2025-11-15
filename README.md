@@ -3,7 +3,7 @@
 This project implements a basic RSA cryptosystem in Java.
 It allows the user to:
 
-1) Generate RSA public and private keys
+1)Generate RSA public and private keys
 2)Encrypt a plaintext file
 3)Decrypt the encrypted output back to the original file
 3)The implementation uses Java’s BigInteger library to handle large prime numbers and modular arithmetic.
