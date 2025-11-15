@@ -1,0 +1,11 @@
+Que hora es? -> Son las tres y cuarto de la tarde
+
+9:45 am -> Son las nueve y cuarenta cinco de la manana
+
+11:30 PM -> Son las once y media de la noche
+ 
+2:15 PM -> Son las dos y quince de la tarde
+ 
+¿A qué hora es la fiesta de Alberto? -> La fiesta de Alberto es a las ocho de la noche
+
+¿A qué hora es la clase de Francés? -> La clase de francés es a las nueve de la mañana
